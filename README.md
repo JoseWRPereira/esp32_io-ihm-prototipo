@@ -24,8 +24,7 @@
 
 
 
-
 | Figura 4: Esquemático da CPU |
 |:----------------------------:|
-|![Esquemático da CPU](https://github.com/JoseWRPereira/esp32_io-ihm-prototipo/blob/b7817131470387d0f8b8023475adf9ccebf77970/docs/img/esp32-ihm-cpu-sch.png) |
+|![Esquemático da CPU](https://github.com/JoseWRPereira/esp32_io-ihm-prototipo/blob/c69fb911db9d95722b8c023a3d944102ddf2c346/docs/img/esp32-ihm-cpu-sch.png) |
 | Fonte: Próprio autor |
